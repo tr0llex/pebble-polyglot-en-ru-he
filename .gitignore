@@ -1,0 +1,5 @@
+# Regenerable build output (recreate with: python build.py)
+build/
+__pycache__/
+*.pyc
+.DS_Store

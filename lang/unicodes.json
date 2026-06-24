@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Cyrillic",
+        "start": "0400",
+        "end": "04FF",
+        "font": "GoNotoKurrent"
+    },
+    {
+        "name": "Hebrew",
+        "start": "0590",
+        "end": "05FF",
+        "font": "GoNotoKurrent"
+    }
+]
