@@ -71,3 +71,10 @@ covers a wide range.
   not bundled here; clone it to rebuild.
 - The configuration in this repo is provided as-is for personal use; add your own `LICENSE`
   if you want to set explicit terms for it.
+
+## Russian interface pack for current PebbleOS
+
+This fork also provides a separate **Russian interface pack v24** for the
+29-font-slot PebbleOS layout. See [RUSSIAN.md](RUSSIAN.md) for compatibility,
+rebuilding and validation. The original English/Russian/Hebrew pack above is
+preserved; the new Russian pack does not provide Hebrew coverage.
